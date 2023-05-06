@@ -2,7 +2,7 @@ import cv2
 import mediapipe as mp
 import tensorflow as tf
 import numpy as np
-from FaceApplicationPipe import classification_layer as fap_cl
+from FaceApplicationPipe import model_layer as fap_cl
 from FaceApplicationPipe import application_layer as fap_al
 import multiprocessing
 from multiprocessing import Pool
