@@ -9,3 +9,4 @@
 - opencv
 
 2. file demo_image:
+This file represents the advertisement demo part. You can change and put your advertisement image into it.
